@@ -101,7 +101,7 @@
 <dependency>
     <groupId>cn.smallbun.screw</groupId>
     <artifactId>screw-core</artifactId>
-    <version>${lastVersion}</version>
+    <version>1.0.6-SNAPSHOT</version>
  </dependency>
 ```
 
